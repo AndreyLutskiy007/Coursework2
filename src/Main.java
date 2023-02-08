@@ -17,6 +17,7 @@ public class Main {
                     java[i] = null;
                 }
             }
+            System.out.println(java[i]);
         }
         StringBuilder sn = new StringBuilder();
         for (String ja : java) {
